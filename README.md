@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Junfan Chen
 
-Aspiring Data Analyst/ Engineer/ Scientist
+---
 
 <!--
 **JonphanChan/JonphanChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
