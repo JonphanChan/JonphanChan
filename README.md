@@ -4,13 +4,30 @@ An aspiring data explorer and passionate development enthusiastist
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+
 
 
 <!--
 **JonphanChan/JonphanChan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 📫 Please feel free to reach me at: jonphanchen@gmail.com
+
+
+
+💪 I’m currently working on @SpringSecurity and @AI_powered_tools
+
+💻 Visit my personal website. Help me improve it here.
+
+👨🏻‍💻 Message me on LinkedIn https://www.linkedin.com/in/ruikang-guo-540742102/
+
+📫 Reach me at leokwok1997@hotmail.com
+
+📄 My resume tells you my experiences
+
+📸 Fun fact I am a hobbyist landscape photographer. Check out my gallery here
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
