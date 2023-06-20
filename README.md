@@ -15,13 +15,11 @@ An aspiring data explorer and passionate development enthusiastist
 <p align="left"> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JonphanChan&show_icons=true&theme=radical"  alt="JonphanChan"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonphanChan&layout=donut" alt="JonphanChan"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonphanChan&layout=compact" alt="JonphanChan"/>
   </a> 
 </p>
 
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2>:man_technologist: &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> 
   <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/></a>  
@@ -39,12 +37,20 @@ An aspiring data explorer and passionate development enthusiastist
   <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/></a>
   <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/></a>
+  <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/></a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/></a>
   <a href="https://www.haskell.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="haskell" width="45" height="45"/></a>
 </p>
+
+
+
+
+
+
+
 
 
 <!--
