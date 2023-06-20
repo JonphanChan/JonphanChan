@@ -6,7 +6,7 @@ An aspiring data explorer and passionate development enthusiastist
 - 🌱 I’m currently learning ...
 - 📫 Please feel free to reach me at: jonphanchen@gmail.com
 
-<h4 align="left">My GitHub Overview</h4>
+<h2 align="left">:computer: &nbsp;My GitHub Overview</h2>
 <p align="left">
 </p>
 
