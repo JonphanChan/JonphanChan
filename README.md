@@ -13,10 +13,10 @@ An aspiring data explorer and passionate development enthusiastist
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JonphanChan&theme=darkhub&no-frame=false&margin-w=15&margin-h=10&row=1" alt="JonphanChan" /></a> </p>
 
 <p align="left"> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonphanChan&layout=donut" alt="JonphanChan" /></a> 
-  
-
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JonphanChan&show_icons=true&theme=radical"  alt="JonphanChan"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonphanChan&layout=donut" alt="JonphanChan"/>
+  </a> 
 </p>
 
 
