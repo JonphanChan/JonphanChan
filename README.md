@@ -6,6 +6,12 @@ An aspiring data explorer and passionate development enthusiastist
 - 🌱 I’m currently learning ...
 - 📫 Please feel free to reach me at: jonphanchen@gmail.com
 
+<h4 align="left">My GitHub Overview</h4>
+<p align="left">
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JonphanChan&theme=darkhub&no-frame=false&margin-w=15&margin-h=10&row=1" alt="JonphanChan" /></a> </p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> 
