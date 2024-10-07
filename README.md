@@ -2,8 +2,6 @@
 
 An aspiring data explorer and passionate development enthusiastist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 📫 Please feel free to reach me at: jonphanchen@gmail.com
 
 
@@ -26,7 +24,7 @@ An aspiring data explorer and passionate development enthusiastist
   <a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45"/></a>
   <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="45" height="45"/></a>
   <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="45" height="45"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-amazon-web-services-a-subsidiary-of-amazon-that-provides-on-demand-cloud-computing-logo-shadow-tal-revivo.png" alt="AWS" width="45" height="45"/></a>
 </p>
 
 
